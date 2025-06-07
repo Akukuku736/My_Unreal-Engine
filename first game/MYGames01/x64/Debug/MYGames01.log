@@ -1,0 +1,13 @@
+﻿  2.下棋小游戏.cpp
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(77,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(77,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(80,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(80,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(80,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(80,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(81,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(81,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(81,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(81,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\我的私人文件\vs\MYGames01\2.下棋小游戏.cpp(59): warning C4715: “checkDraw”: 不是所有的控件路径都返回值
+  MYGames01.vcxproj -> D:\我的私人文件\vs\MYGames01\x64\Debug\MYGames01.exe
